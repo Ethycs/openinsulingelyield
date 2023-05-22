@@ -1,0 +1,3 @@
+[submodule ".\\MicroCV\\"]
+	path = .\\MicroCV\\
+	url = https://github.com/Aculisme/MicroCV/blob/main/main.py
